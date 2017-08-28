@@ -1,0 +1,8 @@
+{
+    "name": "57cia/cenop",
+    "type": "project",
+    "require": {
+        "php": ">=5.5",
+        "longman/telegram-bot": "*"
+    }
+}
